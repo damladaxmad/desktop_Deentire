@@ -1,0 +1,21 @@
+.scroll-arrow {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    display: flex;
+    z-index: 24;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .scroll-arrow:hover {
+    background-color: #f0f0f0;
+  }
+  

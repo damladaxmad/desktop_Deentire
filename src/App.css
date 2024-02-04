@@ -1,0 +1,29 @@
+body {
+    background-color: #F0F2FA;
+    overflow-x: hidden;
+}
+
+.MuiTableRow-root:hover { 
+    /* background: #dedede !important; */
+}
+
+.sweet-warning{
+    background-color: #2F49D1;
+}
+.MuiInputBase-input {
+    height: 16px !important;
+}
+
+::placeholder {
+    color: grey;
+    opacity: 1; /* Firefox */
+  }
+
+/* .MuiInputBase-input {
+    height: 5px !important;
+  } */
+
+  #smsCheck {
+    accent-color: #03656F;
+  }
+   
